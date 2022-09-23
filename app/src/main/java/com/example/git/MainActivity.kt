@@ -12,6 +12,6 @@ class MainActivity : AppCompatActivity() {
         //adafdafa
         //altera
         //artur
-        //jose
+        //zeca
     }
 }
